@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    background: cornflowerblue;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+
+}
+#result{
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+button{
+    text-align: center;
+    width: calc(25%-10px);
+    height: 50px;
+    font-size: 30px;
+    margin: 10px 5px;
+    border: none;
+    border-radius: 5px;
+    float: center;
+    background-color: rgb(13, 27, 42);
+    color: white;
+    -box-shadow: -1px 1px 30px -5px rgba(0,0,0,0.2);
+    
+}
+#number{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+    width: 25%;
+    border-radius: 10%;
+
+}
